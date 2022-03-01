@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @galanzse
 - 👀 I’m interested in plant ecology and data science
-- 🌱 I’m currently learning Python and data science tools
 - 📫 How to reach me @galanzse
