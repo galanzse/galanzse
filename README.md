@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @galanzse
 - 👀 I’m interested in plant ecology and data science
 - 📫 How to reach me @galanzse
+- Publications and projects: https://www.researchgate.net/profile/Javier-Galan-Diaz
